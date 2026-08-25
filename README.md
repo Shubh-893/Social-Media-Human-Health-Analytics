@@ -60,7 +60,7 @@ The analysis highlighted several important patterns related to social media usag
 
 The project includes an interactive **Power BI dashboard** designed to present key findings and relationships in an easy-to-understand format.
 
-![Dashboard Screenshot](images/dashboard-screenshot.png)
+![Dashboard Screenshot](dashboard-screenshot.png)
 
 ## Project Files
 
